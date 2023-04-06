@@ -15,7 +15,7 @@
 /[Mm]emoryCaptures/
 
 # JetBrains Rider
-.idea
+.idea/
 
 # Recordings can get excessive in size
 /[Rr]ecordings/
